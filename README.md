@@ -144,6 +144,7 @@ Replace `path_to_your_image.jpg` with the file path on your system.
   "status":"ok"
 }
 ```
+<img width="1354" height="883" alt="image" src="https://github.com/user-attachments/assets/5bb4531b-42e3-4a26-a95e-d66915f4eefd" />
 
 ---
 
@@ -158,6 +159,8 @@ Replace `path_to_your_image.jpg` with the file path on your system.
 * Ensures the system **fails gracefully** and informs the user why extraction failed.
 
 ---
+<img width="1377" height="663" alt="image" src="https://github.com/user-attachments/assets/a260a2b1-20a6-43fc-a149-9c1d39afeb39" />
+
 
 ## Tech Stack
 
